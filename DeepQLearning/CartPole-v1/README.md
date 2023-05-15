@@ -1,11 +1,11 @@
 
 <p align="center">
-    <div style="display: inline-block; float: left; width: 50%;">
+    <div style="display: inline-block; float: left; width: 50%;" align="center">
         <img src="Render/demo.gif" width="200">
         <p align="center">Before</p>
     </div>
     <div style="display: inline-block; float: left; width: 50%;">
-        <img src="Render/eval.gif" width="200">
+        <img src="Render/eval.gif" width="200" align="center">
          <p align="center">After</p>
     </div>
 </p>
