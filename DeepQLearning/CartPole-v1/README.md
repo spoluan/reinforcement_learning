@@ -1,3 +1,16 @@
+
+<p align="center">
+    <div style="display: inline-block; float: left; width: 50%;" align="center">
+        <img src="Render/demo.gif" width="400">
+        <p align="center">Before</p>
+    </div>
+    <div style="display: inline-block; float: left; width: 50%;"  align="center">
+        <img src="Render/eval.gif" width="400">
+         <p align="center">After</p>
+    </div>
+</p>
+
+
 **Project Descriptions**
 
 Cartpole is a classic control problem in the field of Reinforcement Learning (RL) where the goal is to balance a pole on top of a cart moving on a frictionless track. It is a simple yet challenging task that requires the agent to make continuous decisions based on the current state of the environment to keep the pole upright while the cart moves left or right.
