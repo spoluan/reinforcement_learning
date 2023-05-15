@@ -1,5 +1,5 @@
 
-<center>
+<p align="center">
     <div style="display: inline-block; float: left; width: 50%;">
         <img src="Render/demo.gif" width="250">
         <p>Before</p>
@@ -8,7 +8,7 @@
         <img src="Render/eval.gif" width="250">
          <p>After</p>
     </div>
-</center>
+</p>
 
 
 **Project Descriptions**
